@@ -4,3 +4,6 @@
 [submodule "edureka-iLoveMyCity-ejs"]
 	path = edureka-iLoveMyCity-ejs
 	url = git@github.com:alfredpp/edureka-iLoveMyCity-ejs.git
+[submodule "edureka-iLoveMyCity-hbs"]
+	path = edureka-iLoveMyCity-hbs
+	url = git@github.com:alfredpp/edureka-iLoveMyCity-hbs.git
