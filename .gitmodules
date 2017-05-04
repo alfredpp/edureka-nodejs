@@ -1,3 +1,6 @@
 [submodule "a-quote-a-day"]
 	path = a-quote-a-day
 	url = https://github.com/alfredpp/a-quote-a-day.git
+[submodule "edureka-iLoveMyCity-ejs"]
+	path = edureka-iLoveMyCity-ejs
+	url = git@github.com:alfredpp/edureka-iLoveMyCity-ejs.git
