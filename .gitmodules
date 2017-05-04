@@ -10,3 +10,6 @@
 [submodule "edureka-jade-app"]
 	path = edureka-jade-app
 	url = git@github.com:alfredpp/edureka-jade-app.git
+[submodule "edureka-LeaveTheMarks"]
+	path = edureka-LeaveTheMarks
+	url = git@github.com:alfredpp/edureka-LeaveTheMarks.git
