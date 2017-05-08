@@ -19,3 +19,6 @@
 [submodule "edureka-grunt-gulp"]
 	path = edureka-grunt-gulp
 	url = git@github.com:alfredpp/edureka-grunt-gulp.git
+[submodule "edureka-hapi-meteor"]
+	path = edureka-hapi-meteor
+	url = git@github.com:alfredpp/edureka-hapi-meteor.git
