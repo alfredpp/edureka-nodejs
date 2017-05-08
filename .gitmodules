@@ -22,3 +22,6 @@
 [submodule "edureka-hapi-meteor"]
 	path = edureka-hapi-meteor
 	url = git@github.com:alfredpp/edureka-hapi-meteor.git
+[submodule "edureka-emp-details"]
+	path = edureka-emp-details
+	url = git@github.com:alfredpp/edureka-emp-details.git
