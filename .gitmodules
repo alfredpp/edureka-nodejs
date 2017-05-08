@@ -16,3 +16,6 @@
 [submodule "edureka-chat-application"]
 	path = edureka-chat-application
 	url = git@github.com:alfredpp/edureka-chat-application.git
+[submodule "edureka-grunt-gulp"]
+	path = edureka-grunt-gulp
+	url = git@github.com:alfredpp/edureka-grunt-gulp.git
