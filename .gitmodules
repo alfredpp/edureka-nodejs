@@ -13,3 +13,6 @@
 [submodule "edureka-LeaveTheMarks"]
 	path = edureka-LeaveTheMarks
 	url = git@github.com:alfredpp/edureka-LeaveTheMarks.git
+[submodule "edureka-chat-application"]
+	path = edureka-chat-application
+	url = git@github.com:alfredpp/edureka-chat-application.git
